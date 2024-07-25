@@ -8,10 +8,12 @@
 5. [Credentials and Sensitive Information](#credentials-and-sensitive-information)
 
 ## Repositories
-We will create and use the following repositories for this project:
-- **Main Repository**: Contains the core application code.
-- **Documentation Repository**: Holds all project-related documentation.
-- **Infrastructure Repository**: Manages infrastructure as code (e.g., Terraform scripts).
+I will create and use the following repositories for this project:
+- **Overview Repository**: Contains the detailed planning for this project.
+- **Project 2 Repository**: Holds all project-related documentation.
+- **Project 3 Repository**: Manages infrastructure as code (e.g., Terraform scripts).
+- **Project 4 Repository**: Manages infrastructure as code (e.g., Terraform scripts).
+- **Project 5 Repository**: Manages infrastructure as code (e.g., Terraform scripts).
 
 ## Documentation
 All project documentation is available [here](link-to-documentation). This includes architecture diagrams, API specifications, and user guides.
