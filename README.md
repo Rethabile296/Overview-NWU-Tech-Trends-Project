@@ -15,7 +15,7 @@ I will create and use the following repositories for this project:
 - **Project 4 Repository**: 
 - **Project 5 Repository**: 
 ## Documentation
-All project documentation is available [here](link-to-documentation). This includes architecture diagrams, API specifications, and user guides.
+All project documentation is available [here](link-to-documentation).
 
 ## Branching Strategy
 We will follow the Gitflow branching strategy:
