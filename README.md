@@ -15,7 +15,7 @@ I will create and use the following repositories for this project:
 - **Project 4 Repository**: 
 - **Project 5 Repository**: 
 ## Documentation
-All project documentation is available [here]([link-to-documentation](https://github.com/Rethabile296/CMPG323-Overview---38622246/blob/main/Lean%20Technical%20Documentation%20Template.docx)).
+All project documentation is available [here]([https://github.com/Rethabile296/CMPG323-Overview---38622246/blob/main/Lean%20Technical%20Documentation%20Template.docx].
 
 ## Branching Strategy
 We will follow the Gitflow branching strategy:
